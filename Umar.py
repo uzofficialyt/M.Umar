@@ -1,5 +1,5 @@
-#SOURCE BY : UMAR
-#GITHUB : uzofficialyt
+#SOURCE BY : FAISAL
+#GITHUB : ITX-FAISAL
 #coding = utf-8
 from uuid import uuid4
 import os,sys,tempfile,string,random,subprocess,uuid
@@ -95,18 +95,16 @@ os.system("rm -rf .f2")
 
 logo= f'''
 
-
-d8b    d8b 8888.  .8888  .d8b.  Y888888
-888    888 888888888888 d8' `8b 88    88
-888    888 88   88   88 88ooo88 888888Y 
-888    888 88   88   88 88~~~88 88  88
-8888888888 88        88 88   88 88   88
-Y88888888Y 88        88 88   88 88    88
- 
+d88888b  .d8b.  d888888b .d8888.  .d8b.  db      
+88'     d8' `8b   `88'   88'  YP d8' `8b 88      
+88ooo   88ooo88    88    `8bo.   88ooo88 88      
+88~~~   88~~~88    88      `Y8b. 88~~~88 88      
+88      88   88   .88.   db   8D 88   88 88booo. 
+YP      YP   YP Y888888P `8888Y' YP   YP Y88888P 
                                                  
 {50*"-"}
     Tool Version :     1.3
-    Thanks Alot  :     M.Umar
+    Thanks Alot  :     M.Faisal Khan
 {50*"-"}'''
 
 #--(Dark@Colours)---#
@@ -770,7 +768,7 @@ try:
         if f'com.h{t}pc{a}y.pro' in fileee:
                 print('error occur 0')
                 exit()
-                exit(f'\nsomethiiing went wrong\n\nContact Admin : +923091235363')
+                exit(f'\nsomethiiing went wrong\n\nContact Admin : +923197951815')
 except Exception as e:
         print(e)
         pass
